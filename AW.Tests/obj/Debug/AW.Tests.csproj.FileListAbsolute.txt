@@ -1,0 +1,16 @@
+E:\_project\AdventureWorks2012\AW.Tests\bin\Debug\AW.Tests.dll.config
+E:\_project\AdventureWorks2012\AW.Tests\bin\Debug\AW.Tests.dll
+E:\_project\AdventureWorks2012\AW.Tests\bin\Debug\AW.Tests.pdb
+E:\_project\AdventureWorks2012\AW.Tests\bin\Debug\AW.Repositories.dll
+E:\_project\AdventureWorks2012\AW.Tests\bin\Debug\EntityFramework.dll
+E:\_project\AdventureWorks2012\AW.Tests\bin\Debug\nunit.framework.dll
+E:\_project\AdventureWorks2012\AW.Tests\bin\Debug\nunit.mocks.dll
+E:\_project\AdventureWorks2012\AW.Tests\bin\Debug\pnunit.framework.dll
+E:\_project\AdventureWorks2012\AW.Tests\bin\Debug\AW.Repositories.pdb
+E:\_project\AdventureWorks2012\AW.Tests\bin\Debug\EntityFramework.xml
+E:\_project\AdventureWorks2012\AW.Tests\bin\Debug\nunit.framework.xml
+E:\_project\AdventureWorks2012\AW.Tests\obj\Debug\AW.Tests.csprojResolveAssemblyReference.cache
+E:\_project\AdventureWorks2012\AW.Tests\obj\Debug\AW.Tests.dll
+E:\_project\AdventureWorks2012\AW.Tests\obj\Debug\AW.Tests.pdb
+E:\_project\AdventureWorks2012\AW.Tests\bin\Debug\EntityFramework.SqlServer.dll
+E:\_project\AdventureWorks2012\AW.Tests\bin\Debug\EntityFramework.SqlServer.xml

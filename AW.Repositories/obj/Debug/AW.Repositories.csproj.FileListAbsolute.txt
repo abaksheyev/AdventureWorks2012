@@ -1,0 +1,10 @@
+E:\_project\AdventureWorks2012\AW.Repositories\bin\Debug\AW.Repositories.dll.config
+E:\_project\AdventureWorks2012\AW.Repositories\bin\Debug\AW.Repositories.dll
+E:\_project\AdventureWorks2012\AW.Repositories\bin\Debug\AW.Repositories.pdb
+E:\_project\AdventureWorks2012\AW.Repositories\bin\Debug\EntityFramework.dll
+E:\_project\AdventureWorks2012\AW.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+E:\_project\AdventureWorks2012\AW.Repositories\bin\Debug\EntityFramework.xml
+E:\_project\AdventureWorks2012\AW.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+E:\_project\AdventureWorks2012\AW.Repositories\obj\Debug\AW.Repositories.csprojResolveAssemblyReference.cache
+E:\_project\AdventureWorks2012\AW.Repositories\obj\Debug\AW.Repositories.dll
+E:\_project\AdventureWorks2012\AW.Repositories\obj\Debug\AW.Repositories.pdb
